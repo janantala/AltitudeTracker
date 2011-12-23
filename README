@@ -1,0 +1,9 @@
+AltitudeTracker
+Autor: Jan Antala
+Version: 1.0
+
+English:
+Aplication Altitude Tracker analyzes choosed gpx file and shows track`s profile. The track`s colour is different by climb on each section (from light = 0% to dark = 20+ %).
+
+Slovak:
+Aplikácia Altitude Tracker analyzuje používateľom zadaný gpx súbor a následne na prehľadnom obrázku zobrazí profil trasy zo zadaného gpx súboru. Trasa ja farebne rozlíšená na základe stúpania na každom úseku trasy.
